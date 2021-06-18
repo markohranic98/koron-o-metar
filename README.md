@@ -37,6 +37,6 @@ Requirements
       
       
       
- Wireing example- WARNING - USE GUIDE ABOVE
+ Wiring example- WARNING - USE GUIDE ABOVE
  ![Start Simulating](https://user-images.githubusercontent.com/76110238/122606330-1234c300-d079-11eb-97d0-16c0170ef097.png)
       
