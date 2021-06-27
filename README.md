@@ -55,7 +55,7 @@ arduino/sparkfun device that collects PIR and BLE scan data to determine crowd i
  ![output example](https://user-images.githubusercontent.com/76110238/122640455-06401400-d100-11eb-835b-f7a27251e0b8.png)
  #### Device
  ![62995630-3cda-47c3-be3b-a4dfc183fcbe](https://user-images.githubusercontent.com/76110238/122641644-f2e47700-d106-11eb-8ae3-4a43e127d2b3.jpg) 
-#### Showcase video SOON
+#### Showcase video https://youtu.be/ydYZvq5M6qM
 #### Credits:
 * Davor Cihlar - mentor , Embedded Linux Software Engineer at INTIS
 * Doc. dr. sc. Boris Tomaš - mentor, professor
